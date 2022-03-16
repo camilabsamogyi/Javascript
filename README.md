@@ -1,2 +1,2 @@
-# javascript
- Exercícios em Javascript
+# javascript1
+ Exercícios resolvidos em Javascript
